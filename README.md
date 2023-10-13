@@ -26,7 +26,7 @@ Here are some ideas to get you started:
    <h1>About me </h1>
     <p>As a dedicated computer programming student with a strong foundation in software development, I am eager to secure a Co-op opportunity in the field to apply my skills and contribute to real-world projects. I have significant experience in delivering outstanding user support, because of my background as a support analyst and information systems management professional. With a passion for problem-solving and a commitment to excellence, I am ready to tackle new challenges and drive innovation in the software development industry.</p>
     <p>- 🌱 I’m currently learning html, css, javascript, python, php and SQL.</p>
-    
+    <img src ="images/icons.png"></img>
   </body>
 
 </html>
