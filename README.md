@@ -23,9 +23,9 @@ Here are some ideas to get you started:
     <meta name="Description" content="About me Github profile">       
   </head>
   <style>
-  @media (prefers-color-scheme: light) {
-  [data-color-mode="auto"][data-light-theme*="light"] {
-    color-scheme: light;
+  html {
+
+    background-color = "black";
   }
 </style>
   <body>
