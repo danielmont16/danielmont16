@@ -44,6 +44,10 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danielmont16&repo=movieposter)](https://github.com/danielmont16/movieposter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danielmont16&repo=What-a-Font)](https://github.com/danielmont16/What-a-Font)
 
+@media (prefers-color-scheme: light) {
+  [data-color-mode="auto"][data-light-theme*="light"] {
+    color-scheme: light;
+  }
 
 #
   </body>
