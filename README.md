@@ -22,12 +22,7 @@ Here are some ideas to get you started:
     <meta name="Author" content="Daniel Montenegro">
     <meta name="Description" content="About me Github profile">       
   </head>
-  <style>
-  html {
-
-    background-color = "black";
-  }
-</style>
+ 
   <body>
     <h1> 🚀 Daniel Montenegro</h1>
     <h1> 📓 About me </h1>
