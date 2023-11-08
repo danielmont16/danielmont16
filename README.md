@@ -37,6 +37,14 @@ Here are some ideas to get you started:
    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danielmont16&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
+###
+
+### ⭐ Top Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danielmont16&repo=movieposter)](https://github.com/danielmont16/movieposter)
+
+[<img src="https://media.moddb.com/cache/images/mods/1/54/53113/thumb_620x2000/Captura_de_Tela_57-compressed.jpg" alt="Realms in Exile" style="width:800px;height:370px;">](https://www.moddb.com/mods/age-of-the-rings-realms-in-exile/)
+
 #
   </body>
 
