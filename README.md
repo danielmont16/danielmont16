@@ -43,6 +43,9 @@ Here are some ideas to get you started:
 ### ⭐ Top Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danielmont16&repo=TinDog)](https://github.com/danielmont16/TinDog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danielmont16&repo=movieposter)](https://github.com/danielmont16/movieposter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danielmont16&repo=What-a-Font)](https://github.com/danielmont16/What-a-Font)
+
 
 
 #
